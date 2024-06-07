@@ -6,3 +6,4 @@ meu curso na [alura](https://www.alura.com.br/)
 ### contatos ###
 ## desconheicdo ##
 ### VIVA A LIBERDADE!!! ###
+### нечего сказать, просто наблюдать!!
